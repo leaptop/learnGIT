@@ -1,0 +1,1 @@
+Hooray it works(no conficts) after merging without changing a file from the first mutual(between the branches) commit.
