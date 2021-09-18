@@ -1,3 +1,5 @@
+Tried to check if third and fourth lines in the first file would just coexist, but a conflict appeared with these results:
+
 contents of first commit, first branch
 
 <<<<<<< HEAD
@@ -6,3 +8,4 @@ adding this line to look if  there will be a conflict after merging
 
 again add something to the end
 >>>>>>> fourthBranch
+
