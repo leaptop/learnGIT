@@ -1,0 +1,1 @@
+These contents should be merged to the main branch with no collisions
