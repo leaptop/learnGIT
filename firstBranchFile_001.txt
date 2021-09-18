@@ -1,0 +1,1 @@
+Tried adding a file as tracked by "git commit -a -m"" ", but it wasn't added as I supposed after reading the pro git book. So, I had to add it it via "git add ."
