@@ -1,1 +1,3 @@
 contents of first commit, first branch
+
+adding this line to look if  there will be a conflict after merging
